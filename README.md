@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 # 👋 안녕하세요! 저는 [홍길동]입니다.
 
 ## 🙋 소개
-- 🌱 저는 **백엔드 개발자**를 준비하고 있으며, Python과 PostgreSQL에 관심이 많습니다.  
+- 🌱 **풀스택 개발자**가 되기 위해 노력하고 있습니다.
 - 💡 새로운 기술을 배우고 블로그에 정리하는 것을 좋아합니다.  
-- 🛠️ 최근에는 **데이터 분석**과 **웹 보안**에도 관심을 두고 있습니다.  
+- 🛠️ 최근에는 **데이터 분석**과 **악성코드 분석 및 보안**에도 관심을 두고 있습니다.  
 
 ## 🧑‍💻 기술 스택
-- **언어**: Python, JavaScript  
+- **언어**: Python, C, C++, JAVA
 - **데이터베이스**: PostgreSQL, MySQL  
-- **도구**: Git, Docker, VSCode  
+- **도구**: Git, Docker, Cusor AI, MCP, AI Agent  
 
 ## 📂 프로젝트
 - [📊 웹 로그 분석 프로젝트](https://github.com/username/project1)  
