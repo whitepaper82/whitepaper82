@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## 🙋 저장소 소개
 - 🌱 이 저장소는 기술에 대해 공부하면서 시중 교재 또는 wikidoc에 있는 코드를 실습하기 위해 올려두거나
-  🔭 간단 작성한 예제들을 올려 두기 위해 생성하였습니다.
-- 💡 OpenAI, Ollama, LangChain 등에 대한 이론 설명에 첨부되는 예제들 입니다.
+- 🔭 간단 작성한 예제들을 올려 두기 위해 생성하였습니다.
+- 💡 OpenAI, Ollama, LangChain 등 이론 설명에 첨부되는 간단한 예제들 입니다.
   
 ## 🌐 연락처
 - 📧 이메일: whitepaper82@gmail.com  
