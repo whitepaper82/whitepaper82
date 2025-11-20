@@ -15,29 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 안녕하세요! 저는 [홍길동]입니다.
+# 👋 안녕하세요!
 
-## 🙋 소개
-- 🌱 **풀스택 개발자**가 되기 위해 노력하고 있습니다.
-- 💡 새로운 기술을 배우고 블로그에 정리하는 것을 좋아합니다.  
-- 🛠️ 최근에는 **데이터 분석**과 **악성코드 분석 및 보안**에도 관심을 두고 있습니다.  
-
-## 🧑‍💻 기술 스택
-- **언어**: Python, C, C++, JAVA
-- **데이터베이스**: PostgreSQL, MySQL  
-- **도구**: Git, Docker, Cusor AI, MCP, AI Agent  
-
-## 📂 프로젝트
-- [📊 웹 로그 분석 프로젝트](https://github.com/username/project1)  
-  → 웹 로그 데이터를 분석하여 응답 시간과 트래픽 패턴을 시각화  
-- [🔒 보안 로그 탐지 프로젝트](https://github.com/username/project2)  
-  → 비정상적인 IP 탐지 및 간단한 대시보드 구현  
-
+## 🙋 저장소 소개
+- 🌱 이 저장소는 기술에 대해 공부하면서 시중 교재 또는 wikidoc에 있는 코드를 실습하기 위해 올려두거나
+  🔭 간단 작성한 예제들을 올려 두기 위해 생성하였습니다.
+- 💡 OpenAI, Ollama, LangChain 등에 대한 이론 설명에 첨부되는 예제들 입니다.
+  
 ## 🌐 연락처
-- 📧 이메일: example@email.com  
+- 📧 이메일: whitepaper82@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
-- 🐙 GitHub: [github.com/username](https://github.com/username)  
+
 
 ---
 
-✨ 감사합니다! 제 GitHub 저장소에서 더 많은 프로젝트를 확인해보실 수 있습니다.
+✨ 감사합니다!
