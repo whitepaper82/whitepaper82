@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
+
 -->
 
 # 👋 안녕하세요!
@@ -24,9 +26,6 @@ Here are some ideas to get you started:
   
 ## 🌐 연락처
 - 📧 이메일: whitepaper82@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
-
-
 ---
 
 ✨ 감사합니다!
